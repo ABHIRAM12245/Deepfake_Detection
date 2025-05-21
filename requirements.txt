@@ -1,10 +1,10 @@
 streamlit
-pandas==1.5.3
-numpy==1.24.0
-librosa==0.8.1
-matplotlib==3.6.3
 tensorflow
-keras==2.6.0
+keras
+librosa
+matplotlib
+numpy
+pandas
+opencv-python-headless
+scikit-image
 lime
-scikit-image==0.20.0
-opencv-python==4.5.5.62
